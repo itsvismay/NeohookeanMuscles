@@ -1,0 +1,9 @@
+{
+  "mesh_file":"/home/vismay/Scrapts/2dbeam.ply",
+  "youngs": 10000,
+  "poissons": 0.45,
+  "fibre_mag": 10000,
+  "fibre_dir": [0, 1, 0],
+  "axis": 0,
+  "thresh": 0.8
+}

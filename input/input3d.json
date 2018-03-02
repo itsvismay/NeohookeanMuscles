@@ -1,0 +1,9 @@
+{
+  "mesh_file":"/home/vismay/Scrapts/Beam.1.mesh",
+  "youngs": 10000,
+  "poissons": 0.0,
+  "fibre_mag": 1000,
+  "fibre_dir": [0, 1, 0],
+  "axis": 0,
+  "thresh": 1
+}
